@@ -5,17 +5,25 @@
 # Features implemented:
 
 [] Create a user with `name`and `username`;
+
 [] Create new _todo_;
+
 [] Modify the `title`and `deadline` of an already existing _todo_;
+
 [] Set a _todo_ as _done_;
+
 [] Delete a _todo_
 
 # During the development of this application, I practiced the following topics of Node.js:
 
 [] Build routes;
+
 [] Create and use middleware;
+
 [] REST request parameters;
+
 [] Request testing with Insomnia;
+
 [] Troubleshooting
 
 # Routes created:
